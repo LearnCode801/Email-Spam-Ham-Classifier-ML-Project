@@ -3,6 +3,10 @@
 ## 📹 Project Demo
 Watch the full project demonstration: [Demo Video](https://drive.google.com/file/d/1IO-_aNMk5cW5MZ-k9UZ0lyXKM7y4TASh/view?usp=sharing)
 
+## 📄 View Code
+- **PDF Format**: [View Notebook PDF](https://github.com/LearnCode801/Email-Spam-Ham-Classifier-ML-Project/blob/main/End-to-End%20Project%20of%20Email%20Spam%20Classifier.pdf)
+- **Jupyter Notebook**: [View Interactive Notebook](https://github.com/LearnCode801/Email-Spam-Ham-Classifier-ML-Project/blob/main/End-to-End%20Project%20of%20Email%20Spam%20Classifier.ipynb)
+
 ## Project Overview
 This project builds a comprehensive email spam classification system using multiple machine learning algorithms. The classifier distinguishes between legitimate emails (ham) and spam emails with high accuracy.
 
